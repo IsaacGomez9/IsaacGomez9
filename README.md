@@ -1,5 +1,24 @@
 <h1 align="center"> Hola 👋, soy isaac Gomez</h1>
+
+<h2>About Me: </h2>
+
+Programming |  Music | Movies
+
+<ul>
+<li>💻 I am a front-end Developer of web.</li>
+<li>🌎 I'm from Bogota - Colombia.</li>
+<li>🎮 I like to play video games.</li>
+<li>:musical_note: I like to play piano </li>
+</ul>
+
+
+
+
 <h3  align="center">Desarrollador Fron-End en entrenamiento</h3>
+
+
+
+
 <h4 align="center">Languages and Tools:</h4>
 
 <div align="center">
@@ -19,13 +38,18 @@
  
  ***
  
- <p align="center">
+ <div align="center">
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanp77&hide=java&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
  
- </p>
+ </div>
  
+
+<div align="center">
+
  [![IsaacGomez9's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacGomez9)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
  
 
  
