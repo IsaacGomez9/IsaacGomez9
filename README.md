@@ -19,7 +19,28 @@
  
  ***
  
+ <p align="center">
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanp77&hide=java&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </p>
+ 
+ [![IsaacGomez9's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacGomez9)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+ 
+ 
+ ***
+ 
+<div align="center">
+ <h3 align="center">Connect with me:</h3>
+ <p align="center">
+ <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaac-cajamarca-gomez-022200230/" height="30" width="40" style="max-width: 100%;">
+ </p>
+</div>
+
+ 
+
  
 
  
