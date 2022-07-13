@@ -1,4 +1,4 @@
-<h1 align="center"> Hola 👋, soy isaac Gomez</h1>
+<h1 align="center"> Hola 👋, soy Isaac Gomez</h1>
 
 <h2>About Me: </h2>
 
